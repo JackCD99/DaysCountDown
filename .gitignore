@@ -1,0 +1,9 @@
+*
+!.gitignore
+!README.md
+!LICENSE.md
+!RELEASE_NOTES_v1.2.0.md
+!assets/
+!assets/app-icon.png
+!docs/
+!docs/macOS安装说明.md
